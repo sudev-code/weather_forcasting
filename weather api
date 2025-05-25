@@ -1,0 +1,7 @@
+import ui.WeatherUI;
+
+public class WeatherApp {
+    public static void main(String[] args) {
+        new WeatherUI();
+    }
+}
